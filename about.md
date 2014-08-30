@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Ruby on rails developer at Getty Images.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+  * Professional father
+  * Hobbiest woodworker
+  * Novice photographer
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jeff.carley@gmail.com](mailto:jeff.carley@gmail.com)
