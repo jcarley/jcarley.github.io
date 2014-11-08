@@ -14,6 +14,12 @@ avatar: https://avatars3.githubusercontent.com/u/376255?v=2&s=460
 # Flags below are optional
 #
 
+# Collection definitions
+collections:
+  books:
+    output: true
+    permalink: /books/:path/
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
