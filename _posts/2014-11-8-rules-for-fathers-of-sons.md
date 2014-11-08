@@ -59,4 +59,4 @@ title: Rules for Fathers of Sons
 
 28. Be his hero. You are anyway. To him, you have the strength of Batman, the speed of Spiderman and the brain of Ironman. Don’t disappointment. Prove to him that Daddy’s are the biggest heroes of all. Only Daddy’s can save the day. 
 
-
+Reference: http://www.danoah.com/2012/08/28-rules-for-fathers-of-sons.html
