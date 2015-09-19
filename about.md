@@ -4,13 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Ruby on rails developer at Getty Images.
+Ruby on rails developer at Getty Images.  Aspiring Go developer.
 
 ### More Information
 
   * Professional father
   * Hobbiest woodworker
   * Novice photographer
+  * Book addict
 
 ### Contact me
 
